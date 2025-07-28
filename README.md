@@ -31,7 +31,7 @@ As configurações de largura de banda para os links são:
 - Links de Transporte: 100 Mbps
 - Link para a Nuvem: 200 Mbps
 
-<img src="./topology.png" alt="Diagrama da Topologia" width="700">
+<img src="./imagens/topology.png" alt="Diagrama da Topologia" width="700">
 
 ## Funcionalidades Implementadas
 
